@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52312fc7-1e1f-49f2-883e-bb01085fbb06" name="Changes" comment="" />
+    <list default="true" id="52312fc7-1e1f-49f2-883e-bb01085fbb06" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/co/andes/TaskTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/co/andes/TaskTimer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +30,7 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2MVnkWbxDPWcLKWJC9SAHITjgKK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -103,6 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677861764551</updated>
       <workItem from="1677861767826" duration="1508000" />
+      <workItem from="1677863349365" duration="2369000" />
     </task>
     <servers />
   </component>
@@ -119,5 +125,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

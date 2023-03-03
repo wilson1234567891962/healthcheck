@@ -10,9 +10,10 @@ public class TaskTimer extends TimerTask {
     public void run() {
         try {
             GetRequest getRequest = new GetRequest();
-            if(getRequest.doRequest() == null ){
+            if(!getRequest.doRequest().contains("V20200914_01") ){
                 logger.error("Se tiene problemas con el servicio");
             }
+            System.out.println(getRequest.doRequest());
         } catch (Exception e) {
           logger.error("Se han presentado problemas con el health check",e);
         }

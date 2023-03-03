@@ -1,0 +1,80 @@
+2023-03-03 13:09:48 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:14:49 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2023-03-03 13:14:58 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2023-03-03 13:15:08 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2023-03-03 13:15:18 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2023-03-03 13:15:28 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2023-03-03 13:15:38 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2023-03-03 13:15:48 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2023-03-03 13:15:58 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2023-03-03 13:16:08 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2023-03-03 13:16:18 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2023-03-03 13:16:28 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:16:38 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:16:48 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:16:58 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:17:08 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:17:18 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:17:28 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:18:36 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2023-03-03 13:18:46 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2023-03-03 13:18:57 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:19:06 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:19:16 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:19:26 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:19:36 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:19:46 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:19:56 ERROR TaskTimer:14 - Se tiene problemas con el servicio
+2023-03-03 13:20:06 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
