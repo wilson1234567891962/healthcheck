@@ -78,3 +78,13 @@ java.lang.NullPointerException
 	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
 	at java.util.TimerThread.mainLoop(Timer.java:555)
 	at java.util.TimerThread.run(Timer.java:505)
+2023-03-03 15:35:36 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2023-03-03 15:35:46 ERROR TaskTimer:18 - Se han presentado problemas con el health check
+java.lang.NullPointerException
+	at com.co.andes.TaskTimer.run(TaskTimer.java:13)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
